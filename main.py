@@ -1,6 +1,5 @@
 import os
 import shutil
-from tkinter import *
 
 path = "C:/Users/21263/Downloads"
 files =os.listdir(path)
